@@ -1,5 +1,3 @@
-
-
 # Modules and packages on Golang
 
 Mod ýasaýarys we commit edýäris
@@ -20,4 +18,16 @@ git tag v1.0.0
 
 ```
 git push origin master --tags
+```
+
+```
+git checkout -b v2
+```
+
+```
+git tag v2.0.0
+```
+
+```
+git push origin v2 --tags
 ```
